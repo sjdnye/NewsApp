@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMNewsApp</string>
+    <string name="imageArticle">imageSource</string>
+</resources>
